@@ -43,11 +43,15 @@ Successfully filters and classifies user comments as spam or legitimate
 
 ## 🏢 Professional Experience
 Software Engineering Intern | Noesys Software Pvt. Ltd.
-September 2024 - November 2024
+September 2024 - December 2024
 
 Engineered Python-based LLMs and workflow automation systems
 Developed a Chrome extension for automated web scraping and data processing
 Enhanced operational efficiency through intelligent, data-driven solutions
+
+AI Intern | RootsGoods 
+December 2024 - Present 
+Working on LLMs for detection of maize kerels.
 
 ## 📜 Certifications
 
