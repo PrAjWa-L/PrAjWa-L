@@ -42,21 +42,21 @@ Implemented Naive Bayes and SVM classifiers using scikit-learn
 Successfully filters and classifies user comments as spam or legitimate
 
 ## 🏢 Professional Experience
-Software Engineering Intern | Noesys Software Pvt. Ltd.
+# Software Engineering Intern | Noesys Software Pvt. Ltd.
 September 2024 - December 2024
 
 Engineered Python-based LLMs and workflow automation systems
 Developed a Chrome extension for automated web scraping and data processing
 Enhanced operational efficiency through intelligent, data-driven solutions
 
-AI Intern | RootsGoods 
+# AI Intern | RootsGoods 
 December 2024 - Present 
 Working on LLMs for detection of maize kerels.
 
 ## 📜 Certifications
 
-Google Foundations of Cybersecurity
-Google Manage Security Risks
+- Google Foundations of Cybersecurity
+- Google Manage Security Risks
 
 ## 🌟 Community Involvement
 
