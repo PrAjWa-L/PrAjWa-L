@@ -51,6 +51,7 @@ Enhanced operational efficiency through intelligent, data-driven solutions
 
 ### AI Intern | RootsGoods 
 December 2024 - Present 
+
 Working on LLMs for detection of maize kerels.
 
 ## 📜 Certifications
